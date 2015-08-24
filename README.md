@@ -1,2 +1,2 @@
 # newsletter-template
-This is a simple cross-browser and responsive template for newsletters 
+This is a simple cross-client and responsive template for newsletters 
